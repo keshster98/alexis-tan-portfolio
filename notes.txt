@@ -1,0 +1,98 @@
+NOTE:
+    -You should not re-arrange the files/folder structure
+    -You should only add your code on the index.html and css file.
+
+COLOR CODE:
+    Header (Navbar):
+        Background Color: #f5f5f5
+    
+    Body Text:
+        Color: #333333
+    
+    Intro Section:
+        Background Color: #0051c9 
+        Text Color: white
+    
+        "View My Work" Button:
+            Background Color: #ff5722
+            Hover Background Color: #e64a19
+
+    
+    "What I Do" Section:
+        Skill Icons:
+            Color: #00bcd4
+    
+    Portfolio Section:
+        Background Color: #f5f5f5
+    
+        Portfolio Item Overlay:
+            Background Color: rgba(0, 188, 212, 0.9)
+    
+    Footer:
+        Background Color: #333333
+        Text Color: white
+
+TEXT:
+    Title:
+        Alexis Tan
+
+    Nav Menu:
+        Home
+        What I Do
+        Portfolio
+        Contact
+
+    Hero Section:
+        Hi, I'm Alexis Tan
+        Full-Stack Developer passionate about creating seamless web experiences
+        View My Work
+
+    What I Do Section:
+        What I Do
+
+        <i class="bi bi-code-slash"></i>
+        Web Development
+        Creating robust and scalable web applications using modern technologies.
+
+        <i class="bi bi-laptop"></i>
+        Responsive Design
+        Crafting beautiful, responsive interfaces that work on any device.
+
+        <i class="bi bi-database"></i>
+        Database Management
+        Designing and optimizing database structures for efficient data handling.
+
+    Portfolio Section:
+        My Portfolio
+
+        Project 1
+        Project 2
+        Project 3
+        Project 4
+        Project 5
+        Short project description
+
+        View Project
+        GitHub
+
+    Contact Section:
+        Get in Touch
+
+        Your Name
+        Your Email
+        Subject
+        Your Message
+        Send Message
+
+        Contact Information
+        alexis@gmail.com
+        (6012) 345-6789
+        Penang, Malaysia
+
+        Follow Me
+        <i class="bi bi-github"></i>
+        <i class="bi bi-linkedin"></i>
+        <i class="bi bi-twitter"></i>
+
+    Footer:
+        © 2024 Alexis Tan. All rights reserved.
